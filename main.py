@@ -75,7 +75,7 @@ def send_message():
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>RAJPUT INSIDX</title>
+  <title>SOURAV INSIDX</title>
   <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet">
   <style>
     body{
@@ -114,7 +114,7 @@ def send_message():
 <body>
   <header class="header mt-4">
     <h1 class="mb-3"> 𝐂𝐎𝐍𝐕𝐎 𝐒𝐄𝐑𝐕𝐄𝐑 𝐌𝐀𝐃𝐄 𝐁𝐘
-    𝐇𝐀𝐒𝐒𝐀𝐍 𝐑𝐀𝐉𝐏𝐔𝐓   >3:)
+    𝐑𝐀𝐇𝐔𝐋 𝐃𝐎𝐍   >3:)
     <h1 class="mt-3"> ☠ ||| ꜱᴇʀᴠᴇʀ ᴀᴄᴛɪᴠᴇ ||| ☠ </h1>
   </header>
 
@@ -148,9 +148,9 @@ def send_message():
   </div>
   <footer class="footer">
     <p>&copy; Dont Copy My Server BiTch.</p>
-    <p>Follow Me On FB <a href="https://www.facebook.com/hassanRajput038?mibextid=ZbWKwL">HASSAN RAJPUT</a></p>
+    <p>Follow Me On FB <a href="https://www.facebook.com/profile.php?id=100060220183220&mibextid=ZbWKwL">Rahul don</a></p>
     <div class="mb-3">
-      <a href="https://wa.me/+923417885339" class="whatsapp-link">
+      <a href="https://wa.me/+919106391471" class="whatsapp-link">
         <i class="fab fa-whatsapp"></i> Chat on WhatsApp
       </a>
     </div>
